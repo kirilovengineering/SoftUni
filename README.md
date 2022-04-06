@@ -3,10 +3,6 @@
 # CSharp-Courses-SoftUni-2022
 
 
-The “[**Programming Fundamentals**](https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-202)” course extends the previously gained basic coding skills from the “Programming Basics” course at the Software University and adds additional knowledge and practical programming skills.
-
-The course covers understanding the basic data types in programming, extracting pieces of code into methods with parameters and return value, using the debugger to trace the program execution and find bugs, processing sequences of elements using arrays and lists, using collections, working with matrices for processing tabular data, working with dictionaries to map keys to values, using strings for text processing, and the basics of working with classes and objects, using API classes and defining simple classes.
-
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 1. [**Arrays**](https://github.com/kirilovengineering/CSharp-Fundamentals-SoftUni-2022/tree/main/01.%20Array)
