@@ -1,7 +1,6 @@
 # SoftUni
-C# courses
 
-# CSharp-Fundamentals-SoftUni-2022
+# CSharp-Courses-SoftUni-2022
 
 
 The “[**Programming Fundamentals**](https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-202)” course extends the previously gained basic coding skills from the “Programming Basics” course at the Software University and adds additional knowledge and practical programming skills.
