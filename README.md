@@ -5,6 +5,11 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+- [Programing Basics - May 2021](./softuni-basics-2021-may)
+- [Programing Fundamentals - January 2022](./softuni-fundamentals-2022-january)
+
+
+
 1. [**Arrays**](https://github.com/kirilovengineering/CSharp-Fundamentals-SoftUni-2022/tree/main/01.%20Array)
 2. [**Arrays-Exercise**](https://github.com/kirilovengineering/CSharp-Fundamentals-SoftUni-2022/tree/main/02.%20Arrays-Exercis)
 3. [**Methods**](https://github.com/kirilovengineering/CSharp-Fundamentals-SoftUni-2022/tree/main/03.%20Methods)
