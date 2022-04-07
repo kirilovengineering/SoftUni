@@ -5,7 +5,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-- [Programing Basics - May 2021](./softuni-basics-2021-may)
+- [Programing Basics - May 2021](./https:/SoftUni/tree/master/C%23%20Basics)
 - [Programing Fundamentals - January 2022](./softuni-fundamentals-2022-january)
 
 
