@@ -1,6 +1,6 @@
 # SoftUni CSharp-Courses-2021-2022
 
-## [SoftUni C# Basics Course Content](./C%23%20Basics)
+## [C# Basics Course Content](./C%23%20Basics)
 
 
 |   | Lecture                   | Site | Judge |
@@ -12,4 +12,4 @@
 | 5 | [While Loops](./solutions/05.WhileLoop) | [Link](https://softuni.bg/trainings/3398/programming-basics-with-csharp-may-2021/internal#lesson-29371) | [Link](https://judge.softuni.bg/Contests/2383/While-Loop-Lab) |
 | 6 | [Nested Loops](./solutions/06.NestedLoops) | [Link](https://softuni.bg/trainings/3398/programming-basics-with-csharp-may-2021/internal#lesson-29373) | [Link](https://judge.softuni.bg/Contests/2385/Nested-Loops-Lab) |
 
-- [Programing C# Fundamentals](./C%23%20Programming%20Fundamentals)
+## [C# Fundamentals Course Content](./C%23%20Programming%20Fundamentals)
