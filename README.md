@@ -1,12 +1,12 @@
 # SoftUni
 
-# CSharp-Courses-SoftUni-2022
+# CSharp-Courses-2021-2022
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-- [Programing Basics - May 2021](./C%23%20Basics)
-- [Programing Fundamentals - January 2022](./softuni-fundamentals-2022-january)
+- [Programing C# Basics](./C%23%20Basics)
+- [Programing C# Fundamentals](./softuni-fundamentals-2022-january)
 
 
 
