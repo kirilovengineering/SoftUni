@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.TheImitationGame", "01.TheImitationGame\01.TheImitationGame.csproj", "{6D837C15-745A-4DE9-AB11-1CD364A1AC5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AdAstra", "02.AdAstra\02.AdAstra.csproj", "{A837A635-AA45-4141-8EB5-6A5391239E2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ThePianist", "03.ThePianist\03.ThePianist.csproj", "{012A3414-4A66-4905-B54D-F8C1553D860F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ThePianist1", "03.ThePianist1\03.ThePianist1.csproj", "{66E732E0-39E5-4CC5-A2DD-277CAEFBFF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ThePianist2", "03.ThePianist2\03.ThePianist2.csproj", "{B4E0BBBB-531A-4E35-9A98-ED8FDD49BD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ThePianist4", "03.ThePianist4\03.ThePianist4.csproj", "{935A7F82-2045-4F7B-B682-B47A86B683DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ThePianist100_100", "03.ThePianist100_100\03.ThePianist100_100.csproj", "{9F42AA12-B69E-49B4-B286-B7137F6F5A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D837C15-745A-4DE9-AB11-1CD364A1AC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D837C15-745A-4DE9-AB11-1CD364A1AC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D837C15-745A-4DE9-AB11-1CD364A1AC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D837C15-745A-4DE9-AB11-1CD364A1AC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A837A635-AA45-4141-8EB5-6A5391239E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A837A635-AA45-4141-8EB5-6A5391239E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A837A635-AA45-4141-8EB5-6A5391239E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A837A635-AA45-4141-8EB5-6A5391239E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012A3414-4A66-4905-B54D-F8C1553D860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012A3414-4A66-4905-B54D-F8C1553D860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012A3414-4A66-4905-B54D-F8C1553D860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012A3414-4A66-4905-B54D-F8C1553D860F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E732E0-39E5-4CC5-A2DD-277CAEFBFF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E732E0-39E5-4CC5-A2DD-277CAEFBFF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E732E0-39E5-4CC5-A2DD-277CAEFBFF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E732E0-39E5-4CC5-A2DD-277CAEFBFF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E0BBBB-531A-4E35-9A98-ED8FDD49BD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E0BBBB-531A-4E35-9A98-ED8FDD49BD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E0BBBB-531A-4E35-9A98-ED8FDD49BD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E0BBBB-531A-4E35-9A98-ED8FDD49BD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935A7F82-2045-4F7B-B682-B47A86B683DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935A7F82-2045-4F7B-B682-B47A86B683DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935A7F82-2045-4F7B-B682-B47A86B683DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935A7F82-2045-4F7B-B682-B47A86B683DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F42AA12-B69E-49B4-B286-B7137F6F5A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F42AA12-B69E-49B4-B286-B7137F6F5A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F42AA12-B69E-49B4-B286-B7137F6F5A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F42AA12-B69E-49B4-B286-B7137F6F5A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83364D1D-F854-462F-8BC4-C4038C19A978}
+	EndGlobalSection
+EndGlobal
