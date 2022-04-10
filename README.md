@@ -37,7 +37,7 @@
 | 8 | [Arrays-MoreExercises](./C%23%20Programming%20Fundamentals/Arrays-MoreExercises) |
 | 9 | [Methods-Lab](./C%23%20Programming%20Fundamentals/Methods-Lab) |
 | 10 | [Methods-Exercise](./C%23%20Programming%20Fundamentals/Methods-Exercise) |
-| 11 | [Methods-More Exercise](./C%23%20Programming%20Fundamentals/Methods-More Exercise) |
+| 11 | [Methods-MoreExercise](./C%23%20Programming%20Fundamentals/Methods-MoreExercise) |
 | 12 | [Lists-Lab](./C%23%20Programming%20Fundamentals/Lists-Lab) |
 | 13 | [Lists-Exercise](./C%23%20Programming%20Fundamentals/Lists-Exercise) |
 | 14 | [ProgrammingFundamentalsMidExam](./C%23%20Programming%20Fundamentals/ProgrammingFundamentalsMidExam) |
