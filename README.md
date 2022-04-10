@@ -14,7 +14,7 @@
 | 7 | [ForLoop-Lab](./C%23%20Basics/ForLoop-Lab) |
 | 8 | [ForLoop-Exercise](./C%23%20Basics/ForLoop-Exercise) |
 | 9 | [WhileLoop-Lab](./C%23%20Basics/WhileLoop-Lab) |
-| 10 | [WhileLoop-Exercise](./C%23%20Basics/While Loop-Exercise) |
+| 10 | [WhileLoop-Exercise](./C%23%20Basics/WhileLoop-Exercise) |
 | 11 | [NestedLoops-Lab](./C%23%20Basics/NestedLoops-Lab) |
 | 12 | [NestedLoops-Exercise](./C%23%20Basics/NestedLoops-Exercise) |
 | 13 | [PrepExam1](./C%23%20Basics/PrepExam1) |
