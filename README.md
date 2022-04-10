@@ -31,7 +31,7 @@
 | 2 | [BasicSyntax_ConditionalStatementsАndLoops-MoreExercise](./C%23%20Programming%20Fundamentals/BasicSyntax_ConditionalStatementsАndLoops-MoreExercise) |
 | 3 | [DataTypesAndVariables-Lab](./C%23%20Programming%20Fundamentals/DataTypesAndVariables-Lab) |
 | 4 | [DataTypesAndVariables-Exercise](./C%23%20Programming%20Fundamentals/DataTypesAndVariables-Exercise) |
-| 5 | [DataTypesAndVariables-More Exercise](./C%23%20Programming%20Fundamentals/DataTypesAndVariables-More Exercise) |
+| 5 | [DataTypesAndVariables-MoreExercise](./C%23%20Programming%20Fundamentals/DataTypesAndVariables-MoreExercise) |
 | 6 | [Arrays-Lab](./C%23%20Programming%20Fundamentals/Arrays-Lab) |
 | 7 | [Arrays-Exercise](./C%23%20Programming%20Fundamentals/Arrays-Exercise) |
 | 8 | [Arrays-MoreExercises](./C%23%20Programming%20Fundamentals/Arrays-MoreExercises) |
