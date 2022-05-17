@@ -7,6 +7,7 @@ namespace _01._Basic_Stack_Operations
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Temporary test New test");
+            Console.WriteLine("Hello World! Temporary test New test");
         }
     }
 }
