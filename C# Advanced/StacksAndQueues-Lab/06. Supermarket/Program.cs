@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _06._Supermarket
 {
@@ -6,7 +7,29 @@ namespace _06._Supermarket
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Queue<string> customers = new Queue<string>();
+
+            while (true)
+            {
+                string command = Console.ReadLine();
+                if (command == "End")
+                {
+                    Console.WriteLine($"{customers.Count} people remaining.");
+                    break;
+                }
+
+                if (command == "Paid")
+                {
+                    while (customers.Count != 0)
+                    {
+                        Console.WriteLine(customers.Dequeue());
+                    }
+                }
+                else
+                {
+                    customers.Enqueue(command);
+                }
+            }
         }
     }
 }

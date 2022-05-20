@@ -1,28 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _05._Print_Even_Numbers
 {
     internal class Program
-    { 
+    {
         static void Main(string[] args)
         {
-            var players = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            var queue = new Queue<string>(players);
-            int n = int.Parse(Console.ReadLine());
+            int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            while (queue.Count > 1)
+            Queue<string> evenNumbers = new Queue<string>();
+
+            foreach (var item in numbers)
             {
-                for (int i = 1; i <= n - 1; i++)
+                if (item % 2 == 0)
                 {
-                    var player = queue.Dequeue();
-                    queue.Enqueue(player);
+                    evenNumbers.Enqueue(item.ToString());
+                    evenNumbers.Enqueue(", ");
                 }
-                var lostPlayer = queue.Dequeue();
-                Console.WriteLine($"Removed {lostPlayer}");
             }
-            var lastPlayer = queue.Dequeue();
-            Console.WriteLine($"Last is {lastPlayer}");
+
+            for (int i = 1; i < evenNumbers.Count;i++)
+            {
+                i--;
+                Console.Write(evenNumbers.Dequeue());
+            }
         }
     }
 }
