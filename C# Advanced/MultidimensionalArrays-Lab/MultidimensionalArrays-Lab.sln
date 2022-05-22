@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumMatrixElements", "01.SumMatrixElements\01.SumMatrixElements.csproj", "{93347A25-A9B8-4F18-A4FE-435C61AF1676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumMatrixElements", "01.SumMatrixElements\01.SumMatrixElements.csproj", "{93347A25-A9B8-4F18-A4FE-435C61AF1676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumMatrixColumns", "02.SumMatrixColumns\02.SumMatrixColumns.csproj", "{D2A347EC-A167-450E-B3D7-436E66192D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumMatrixColumns", "02.SumMatrixColumns\02.SumMatrixColumns.csproj", "{D2A347EC-A167-450E-B3D7-436E66192D9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PrimaryDiagonal", "03.PrimaryDiagonal\03.PrimaryDiagonal.csproj", "{04A7D7CA-D746-4E49-914C-51646D59ECCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PrimaryDiagonal", "03.PrimaryDiagonal\03.PrimaryDiagonal.csproj", "{04A7D7CA-D746-4E49-914C-51646D59ECCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SymbolInMatrix", "04.SymbolInMatrix\04.SymbolInMatrix.csproj", "{3F04A0D3-D371-4C81-B452-664B9B37B2D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SymbolInMatrix", "04.SymbolInMatrix\04.SymbolInMatrix.csproj", "{3F04A0D3-D371-4C81-B452-664B9B37B2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SquareWithMaximumSum", "05. SquareWithMaximumSum\05. SquareWithMaximumSum.csproj", "{398382A8-97D2-445A-BCEE-6732CA8F12BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. SquareWithMaximumSum", "05. SquareWithMaximumSum\05. SquareWithMaximumSum.csproj", "{398382A8-97D2-445A-BCEE-6732CA8F12BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Jagged-ArrayModification", "06.Jagged-ArrayModification\06.Jagged-ArrayModification.csproj", "{65A754D7-0BFF-4D1E-BA46-DE533BB20ABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Jagged-ArrayModification", "06.Jagged-ArrayModification\06.Jagged-ArrayModification.csproj", "{65A754D7-0BFF-4D1E-BA46-DE533BB20ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PascalTriangle", "07.PascalTriangle\07.PascalTriangle.csproj", "{1D34F3E6-DB46-4975-9797-111FAD53AE60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.PascalTriangle", "07.PascalTriangle\07.PascalTriangle.csproj", "{1D34F3E6-DB46-4975-9797-111FAD53AE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationMatrix", "Presentation\PresentationMatrix.csproj", "{B034A882-9C5D-4B0F-A4D9-D6E71942EDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationJaggedArray", "PresentationJaggedArray\PresentationJaggedArray.csproj", "{C94C6464-0EF8-4962-B252-88F57E8FC217}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{1D34F3E6-DB46-4975-9797-111FAD53AE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D34F3E6-DB46-4975-9797-111FAD53AE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D34F3E6-DB46-4975-9797-111FAD53AE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B034A882-9C5D-4B0F-A4D9-D6E71942EDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B034A882-9C5D-4B0F-A4D9-D6E71942EDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B034A882-9C5D-4B0F-A4D9-D6E71942EDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B034A882-9C5D-4B0F-A4D9-D6E71942EDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
