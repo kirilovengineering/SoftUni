@@ -12,7 +12,7 @@ namespace _07.PascalTriangle
             for (int row = 0; row < jagged.Length; row++)
             {
                 jagged[row] = new long[row + 1];
-                jagged[row][0] = 1; // Първия елемент на масива е винаги единица -> 1
+                jagged[row][0] = 1; // Първият елемент на масива е винаги единица -> 1
                 jagged[row][row] = 1;
             }
 
