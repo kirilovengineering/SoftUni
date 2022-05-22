@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationMatrix", "Prese
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationJaggedArray", "PresentationJaggedArray\PresentationJaggedArray.csproj", "{C94C6464-0EF8-4962-B252-88F57E8FC217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeMothodsForMatrix", "SomeMothodsForMatrix\SomeMothodsForMatrix.csproj", "{F5CBA16D-E8FC-4920-A41C-F90CADCBFC94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C94C6464-0EF8-4962-B252-88F57E8FC217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CBA16D-E8FC-4920-A41C-F90CADCBFC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CBA16D-E8FC-4920-A41C-F90CADCBFC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CBA16D-E8FC-4920-A41C-F90CADCBFC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CBA16D-E8FC-4920-A41C-F90CADCBFC94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
