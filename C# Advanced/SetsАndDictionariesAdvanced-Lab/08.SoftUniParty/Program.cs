@@ -6,7 +6,7 @@ namespace _08.SoftUniParty
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
