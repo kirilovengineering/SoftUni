@@ -3,21 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountSameValuesInArray", "01.CountSameValuesInArray\01.CountSameValuesInArray.csproj", "{D3BE65CA-5333-4CB6-A61B-33FC13317789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountSameValuesInArray", "01.CountSameValuesInArray\01.CountSameValuesInArray.csproj", "{D3BE65CA-5333-4CB6-A61B-33FC13317789}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageStudentGrades", "02.AverageStudentGrades\02.AverageStudentGrades.csproj", "{6C6E46DC-9B6B-4A60-BD61-4E6BEA37BA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AverageStudentGrades", "02.AverageStudentGrades\02.AverageStudentGrades.csproj", "{6C6E46DC-9B6B-4A60-BD61-4E6BEA37BA83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Largest3Numbers", "03.Largest3Numbers\03.Largest3Numbers.csproj", "{8D82FF53-7F38-46C7-96CF-C127ACC8497B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Largest3Numbers", "03.Largest3Numbers\03.Largest3Numbers.csproj", "{8D82FF53-7F38-46C7-96CF-C127ACC8497B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ProductShop", "04.ProductShop\04.ProductShop.csproj", "{FC30656C-7D08-45B3-ADAA-1F6A664C7895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ProductShop", "04.ProductShop\04.ProductShop.csproj", "{FC30656C-7D08-45B3-ADAA-1F6A664C7895}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CitiesByContinentAndCountry", "05.CitiesByContinentAndCountry\05.CitiesByContinentAndCountry.csproj", "{FD5EB13D-FBAF-402A-B940-D45B3A0139F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CitiesByContinentAndCountry", "05.CitiesByContinentAndCountry\05.CitiesByContinentAndCountry.csproj", "{FD5EB13D-FBAF-402A-B940-D45B3A0139F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 RecordUniqueNames", "06 RecordUniqueNames\06 RecordUniqueNames.csproj", "{1B7B363A-58C6-4F7E-8809-A2280D08E412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 RecordUniqueNames", "06 RecordUniqueNames\06 RecordUniqueNames.csproj", "{1B7B363A-58C6-4F7E-8809-A2280D08E412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ParkingLot", "07.ParkingLot\07.ParkingLot.csproj", "{83483A2F-E062-45F8-9244-4E50AFD55576}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.ParkingLot", "07.ParkingLot\07.ParkingLot.csproj", "{83483A2F-E062-45F8-9244-4E50AFD55576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SoftUniParty", "08.SoftUniParty\08.SoftUniParty.csproj", "{51364EBC-67BB-4EBF-83DB-5EDECAABA3B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.SoftUniParty", "08.SoftUniParty\08.SoftUniParty.csproj", "{51364EBC-67BB-4EBF-83DB-5EDECAABA3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillNestedDictionary", "FillNestedDictionary\FillNestedDictionary.csproj", "{BA1A9775-38B5-4686-9171-3A2F8DD23105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillMulti-Dictionaries", "FillMulti-Dictionaries\FillMulti-Dictionaries.csproj", "{B0EDF87C-28BB-4D67-A769-5AFC93C58D4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{51364EBC-67BB-4EBF-83DB-5EDECAABA3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51364EBC-67BB-4EBF-83DB-5EDECAABA3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51364EBC-67BB-4EBF-83DB-5EDECAABA3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1A9775-38B5-4686-9171-3A2F8DD23105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1A9775-38B5-4686-9171-3A2F8DD23105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1A9775-38B5-4686-9171-3A2F8DD23105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1A9775-38B5-4686-9171-3A2F8DD23105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EDF87C-28BB-4D67-A769-5AFC93C58D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EDF87C-28BB-4D67-A769-5AFC93C58D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EDF87C-28BB-4D67-A769-5AFC93C58D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EDF87C-28BB-4D67-A769-5AFC93C58D4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
