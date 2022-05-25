@@ -51,5 +51,20 @@ namespace _05.CitiesByContinentAndCountry
             }
         }
 
+        // With kvp!! 
+        //static void PrintCitiesByContinentAndCountry(
+        //Dictionary<string, Dictionary<string, List<string>>> cities)
+        //{
+        //    foreach (var (continentName, countries) in cities)
+        //    {
+        //        Console.WriteLine(continentName + ":");
+        //        foreach (var (countryName, citiesInCountry) in countries)
+        //        {
+        //            Console.WriteLine("  " + countryName + " -> " +
+        //                string.Join(", ", citiesInCountry));
+        //        }
+        //    }
+        //}
+
     }
 }
