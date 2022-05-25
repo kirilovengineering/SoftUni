@@ -64,7 +64,26 @@
 | 0 | [StopWatch](./C%23%20Programming%20Fundamentals/StopWatch) |
 | 0 | [SystemTextEncodingUTF8](./C%23%20Programming%20Fundamentals/SystemTextEncodingUTF8) |
 
+## [C# Advanced Course Content](./C%23%20Advanced)
 
+
+| N | Solutions                 |
+|---|---------------------------|
+| 1 | [StacksAndQueues-Lab](./C%23%20Advanced/StacksAndQueues-Lab) |
+| 2 | [2](./C%23%20Basics/FirstStepsInCoding-Exercise) |
+| 3 | [3](./C%23%20Basics/ConditionalStatements-Lab) |
+| 4 | [4](./C%23%20Basics/ConditionalStatements-Exercise) |
+| 5 | [5](./C%23%20Basics/ConditionalStatementsAdvanced-Lab) |
+| 6 | [5](./C%23%20Basics/ConditionalStatementsAdvanced-Exercise) |
+| 7 | [5](./C%23%20Basics/ForLoop-Lab) |
+| 8 | [5](./C%23%20Basics/ForLoop-Exercise) |
+| 9 | [5](./C%23%20Basics/WhileLoop-Lab) |
+| 10 | [5](./C%23%20Basics/WhileLoop-Exercise) |
+| 11 | [5](./C%23%20Basics/NestedLoops-Lab) |
+| 12 | [5](./C%23%20Basics/NestedLoops-Exercise) |
+| 13 | [5](./C%23%20Basics/PrepExam1) |
+| 14 | [5](./C%23%20Basics/PrepExam2) |
+| 15 | [5](./C%23%20Basics/Conditions) |
 
 
 
