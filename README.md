@@ -64,7 +64,26 @@
 | 0 | [StopWatch](./C%23%20Programming%20Fundamentals/StopWatch) |
 | 0 | [SystemTextEncodingUTF8](./C%23%20Programming%20Fundamentals/SystemTextEncodingUTF8) |
 
+## [C# Advanced Course Content](./C%23%20Advanced)
 
+
+| N | Solutions                 |
+|---|---------------------------|
+| 1 | [StacksAndQueues-Lab](./C%23%20Advanced/StacksAndQueues-Lab) |
+| 2 | [StacksAndQueues-Exercise](./C%23%20Advanced/StacksAndQueues-Exercise) |
+| 3 | [MultidimensionalArrays-Lab](./C%23%20Advanced/MultidimensionalArrays-Lab) |
+| 4 | [MultidimensionalArrays-Exercise](./C%23%20Advanced/MultidimensionalArrays-Exercise) |
+| 5 | [SetsАndDictionariesAdvanced-Lab](./C%23%20Advanced/Sets%D0%90ndDictionariesAdvanced-Lab) |
+| 6 | [SetsAndDictionariesAdvanced-Exercise](./C%23%20Advanced/SetsAndDictionariesAdvanced-Exercise) |
+| 7 | [5](./C%23%20Basics/ForLoop-Lab ....) |
+| 8 | [5](./C%23%20Basics/ForLoop-Exercise......) |
+| 9 | [5](./C%23%20Basics/WhileLoop-Lab) |
+| 10 | [5](./C%23%20Basics/WhileLoop-Exercise) |
+| 11 | [5](./C%23%20Basics/NestedLoops-Lab) |
+| 12 | [5](./C%23%20Basics/NestedLoops-Exercise) |
+| 13 | [5](./C%23%20Basics/PrepExam1) |
+| 14 | [5](./C%23%20Basics/PrepExam2) |
+| 15 | [5](./C%23%20Basics/Conditions) |
 
 
 
