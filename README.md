@@ -70,13 +70,13 @@
 | N | Solutions                 |
 |---|---------------------------|
 | 1 | [StacksAndQueues-Lab](./C%23%20Advanced/StacksAndQueues-Lab) |
-| 2 | [2](./C%23%20Basics/FirstStepsInCoding-Exercise) |
-| 3 | [3](./C%23%20Basics/ConditionalStatements-Lab) |
-| 4 | [4](./C%23%20Basics/ConditionalStatements-Exercise) |
-| 5 | [5](./C%23%20Basics/ConditionalStatementsAdvanced-Lab) |
-| 6 | [5](./C%23%20Basics/ConditionalStatementsAdvanced-Exercise) |
-| 7 | [5](./C%23%20Basics/ForLoop-Lab) |
-| 8 | [5](./C%23%20Basics/ForLoop-Exercise) |
+| 2 | [StacksAndQueues-Exercise](./C%23%20Advanced/StacksAndQueues-Exercise) |
+| 3 | [MultidimensionalArrays-Lab](./C%23%20Advanced/MultidimensionalArrays-Lab) |
+| 4 | [MultidimensionalArrays-Exercise](./C%23%20Advanced/MultidimensionalArrays-Exercise) |
+| 5 | [SetsАndDictionariesAdvanced-Lab](./C%23%20Advanced/Sets%D0%90ndDictionariesAdvanced-Lab) |
+| 6 | [SetsAndDictionariesAdvanced-Exercise](./C%23%20Advanced/SetsAndDictionariesAdvanced-Exercise) |
+| 7 | [5](./C%23%20Basics/ForLoop-Lab ....) |
+| 8 | [5](./C%23%20Basics/ForLoop-Exercise......) |
 | 9 | [5](./C%23%20Basics/WhileLoop-Lab) |
 | 10 | [5](./C%23%20Basics/WhileLoop-Exercise) |
 | 11 | [5](./C%23%20Basics/NestedLoops-Lab) |
