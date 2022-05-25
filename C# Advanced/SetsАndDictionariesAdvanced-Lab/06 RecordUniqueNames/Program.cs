@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _06_RecordUniqueNames
 {
@@ -6,7 +7,14 @@ namespace _06_RecordUniqueNames
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            HashSet<string> names = new HashSet<string>();
+            int n = int.Parse(Console.ReadLine());
+            while (n-- > 0)
+            {
+                names.Add(Console.ReadLine());
+            }
+
+            Console.WriteLine(String.Join(Environment.NewLine, names));
         }
     }
 }
