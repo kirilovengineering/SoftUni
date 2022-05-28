@@ -1,6 +1,7 @@
 ﻿namespace ExtractBytes
 {
     using System;
+    using System.Collections.Generic;
     using System.IO;
     using System.Linq;
     using System.Text;
@@ -24,7 +25,9 @@
             {
                 using (BinaryReader reader = new BinaryReader(fin, Encoding.Default))//съкратен запис на юзинг
                 {
+                    List<byte> temp = new List<byte>();
                     byte[] buffer = new byte[4096];
+                    
                     while (true)
                     {
                         int bytesRead = reader.Read(buffer, 0, buffer.Length);
@@ -45,29 +48,31 @@
                             searchBytesBytes[i] = (byte)searchBytesInts[i];
                         }
 
-                        for (int i = 0; i < searchBytesBytes.Length; i++)
-                        {
-                            searchBytesBytes[i] = (byte)searchBytesInts[i];
-                        }
 
                         for (int i = 0; i < buffer.Length; i++)
                         {
                             for (int j = 0; j < searchBytesBytes.Length; j++)
                             {
-                                if (searchBytesBytes[j] != buffer[i])
+                                if (searchBytesBytes[j] == buffer[i])
                                 {
-                                    int indexToRemove = i;
-                                    searchBytesBytes = searchBytesBytes.Where((source, index) => index != indexToRemove).ToArray();
+                                    temp.Add(searchBytesBytes[j]);
+                              
+                                    //int indexToRemove = i;
+                                    //searchBytesBytes = searchBytesBytes.Where((source, index) => index != indexToRemove).ToArray();
                                 }
                             }
                         }
-
+                        var tempBuffer = new byte[temp.Count];
+                        for (int i = 0; i < temp.Count; i++)
+                        {
+                            tempBuffer[i] = temp[i];
+                        }
+                        //tempBuffer = temp.ToArray();
                         //Презаписва файла с цялото съдържание
                         FileStream fout = new FileStream(outputPath, FileMode.Create);
                         using (fout)
                         {
-                            fout.Write(buffer, 0, bytesRead);
-
+                            fout.Write(tempBuffer, 0, temp.Count);
                         }
                     }
                 }
