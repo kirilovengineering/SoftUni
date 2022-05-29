@@ -1,12 +1,15 @@
 ﻿namespace DirectoryTraversal
 {
     using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
     public class DirectoryTraversal
     {
         static void Main()
         {
             string path = Console.ReadLine();
-            string reportFileName = @"\report.txt";
+            string reportFileName = @"/report.txt";
 
             string reportContent = TraverseDirectory(path);
             Console.WriteLine(reportContent);
