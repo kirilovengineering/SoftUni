@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace _01.EvenLines
+namespace _01.EvenLines3._1_
 {
     internal class Program
     {

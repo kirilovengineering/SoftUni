@@ -9,8 +9,8 @@ namespace _02.LineNumbers
     {
         static void Main(string[] args)
         {
-            string inputFilePath = @"..\..\..\text.txt"; // файл за четене
-            string outputFilePath = @"..\..\..\output.txt"; //файл за писане
+            string inputFilePath = @"../../../text.txt"; // файл за четене
+            string outputFilePath = @"../../../output.txt"; //файл за писане
 
             ProcessLines(inputFilePath, outputFilePath);
         }
