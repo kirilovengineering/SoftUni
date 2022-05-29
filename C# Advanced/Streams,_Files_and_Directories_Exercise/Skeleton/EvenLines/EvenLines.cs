@@ -8,7 +8,7 @@
     {
         static void Main()
         {
-            string inputFilePath = @"..\..\..\text.txt";
+            string inputFilePath = @"../../../text.txt";
 
             ProcessLines(inputFilePath);
         }
@@ -43,6 +43,7 @@
                     line = reader.ReadLine();
                 }
             }
+            return string.Empty;
         }
 
         private static string Reverse(string line)
