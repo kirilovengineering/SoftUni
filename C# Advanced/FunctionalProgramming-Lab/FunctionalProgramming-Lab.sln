@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateWhatIs", "DelegateW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDelegateMultiParametersExample", "GenericDelegateMultiParametersExample\GenericDelegateMultiParametersExample.csproj", "{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionWhatIs", "ActionWhatIs\ActionWhatIs.csproj", "{87E5F03E-A0D6-498B-82AE-7469091D6C2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E5F03E-A0D6-498B-82AE-7469091D6C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E5F03E-A0D6-498B-82AE-7469091D6C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E5F03E-A0D6-498B-82AE-7469091D6C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E5F03E-A0D6-498B-82AE-7469091D6C2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
