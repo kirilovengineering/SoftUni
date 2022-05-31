@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.FilterByAge", "05.Filter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateWhatIs", "DelegateWhatIs\DelegateWhatIs.csproj", "{8E3BA96C-3D8A-4804-B44E-04A99C7D501B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDelegateMultiParametersExample", "GenericDelegateMultiParametersExample\GenericDelegateMultiParametersExample.csproj", "{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8E3BA96C-3D8A-4804-B44E-04A99C7D501B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3BA96C-3D8A-4804-B44E-04A99C7D501B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3BA96C-3D8A-4804-B44E-04A99C7D501B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C014AA9-45E8-4600-8A1C-E7983D50D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

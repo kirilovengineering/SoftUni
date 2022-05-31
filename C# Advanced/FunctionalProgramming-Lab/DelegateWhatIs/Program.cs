@@ -15,9 +15,9 @@ namespace DelegateWhatIs
             Aggregate devide = (x, y) => x / y;
             Aggregate add = (x, y) => x + y;
 
-            Console.WriteLine(multiplay(3, 5));
-            Console.WriteLine(devide(3, 5));
-            Console.WriteLine(add(3, 5));
+            Console.WriteLine(multiplay(3, 5)); // 15
+            Console.WriteLine(devide(3, 5)); // 0
+            Console.WriteLine(add(3, 5)); // 8
         }
     }
 }
