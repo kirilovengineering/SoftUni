@@ -19,7 +19,7 @@ namespace High_OrderFunctionMoreExample
             }
 
             Console.WriteLine(Aggregate(1, 10, (a, b) => a + b)); // 55
-            Console.WriteLine(Aggregate(1, 10, (a, b) => a * b)); // 3628800
+            Console.WriteLine(Aggregate(1, 10, (a, b) => a * b)); // 3628800 --- 10! факториел
             Console.WriteLine(Aggregate(1, 10, (a, b) => long.Parse("" + a + b))); // 12345678910
         }
     }
