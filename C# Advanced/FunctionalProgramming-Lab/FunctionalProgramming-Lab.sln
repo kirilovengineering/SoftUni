@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionWhatIs", "ActionWhatI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateWhatIs", "PredicateWhatIs\PredicateWhatIs.csproj", "{9D09398D-FC77-4976-95B9-852B059E1FD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High-OrderFunction", "High-OrderFunction\High-OrderFunction.csproj", "{8DEAC085-EA07-49FD-AF87-B636AFC5A047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9D09398D-FC77-4976-95B9-852B059E1FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D09398D-FC77-4976-95B9-852B059E1FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D09398D-FC77-4976-95B9-852B059E1FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,6 +21,7 @@ namespace _03.CountUppercaseWords
         //}
 
         // Типичен пример за функционално програмиране
+        // МНОГО ТРУДНО СЕ ДЕБЪГВА ....
         static void Main() =>
             Console.WriteLine(
                 String.Join(
