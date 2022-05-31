@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateWhatIs", "Predicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High-OrderFunction", "High-OrderFunction\High-OrderFunction.csproj", "{8DEAC085-EA07-49FD-AF87-B636AFC5A047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High-OrderFunctionMoreExample", "High-OrderFunctionMoreExample\High-OrderFunctionMoreExample.csproj", "{8F022A8E-C6CF-4E5D-BF37-71A2B3F7ADEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DEAC085-EA07-49FD-AF87-B636AFC5A047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F022A8E-C6CF-4E5D-BF37-71A2B3F7ADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F022A8E-C6CF-4E5D-BF37-71A2B3F7ADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F022A8E-C6CF-4E5D-BF37-71A2B3F7ADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F022A8E-C6CF-4E5D-BF37-71A2B3F7ADEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
