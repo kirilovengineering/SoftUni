@@ -8,14 +8,19 @@ namespace _03._Custom_Min_Function
     {
         static void Main(string[] args)
         {
-            List<string> list = Console.ReadLine().Split(" ").ToList();
-            HashSet<int> numbers = new HashSet<int>();
-            for (int i = 0; i < list.Count; i++)
-            {
-                numbers.Add(int.Parse(list[i]));
-            }
-            int min = numbers.Min();
-            Console.WriteLine(min);
+            //List<string> list = Console.ReadLine().Split(" ").ToList();
+            //HashSet<int> numbers = new HashSet<int>();
+            //for (int i = 0; i < list.Count; i++)
+            //{
+            //    numbers.Add(int.Parse(list[i]));
+            //}
+            //int min = numbers.Min();
+            //Console.WriteLine(min);
+
+            // Фукционално ще стане така
+            List<int> numbers = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
+            Func<List<int>, int> getMinElement = numbers => numbers.Min();
+            Console.WriteLine(getMinElement(numbers));
         }
     }
 }
