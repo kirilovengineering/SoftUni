@@ -4,10 +4,12 @@ namespace CarManufacturer
 {
     internal class Car
     {
+        //----------------- FIELDS -----------------
         private string make;
         private string model;
         private int year;
 
+        //--------------- PROPERTIES ---------------
         public string Make
         {
             get { return make; }
@@ -24,23 +26,23 @@ namespace CarManufacturer
             get { return this.year; }
             set { this.year = value; }
         }
-
+        //----------------- FIELDS -----------------
         private double fuelQuantity;
-
+        //--------------- PROPERTIES ---------------
         public double FuelQuantity
         {
             get { return fuelQuantity; }
             set { fuelQuantity = value; }
         }
-
+        //----------------- FIELDS -----------------
         private double fuelConsumption;
-
+        //--------------- PROPERTIES ---------------
         public double FuelConsumption
         {
             get { return fuelConsumption; }
             set { fuelConsumption = value; }
         }
-
+        //---------------- METHODS -----------------
         public void Drive(double distance)
         {
             double consumtion = distance * this.FuelConsumption;
