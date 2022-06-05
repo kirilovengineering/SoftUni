@@ -30,8 +30,8 @@ namespace _03.OldestFamilyMember
 
         public Person GetOldestMember()
         { 
-            int maxAge = this.familyMembers.Max(member => member.Age);
-            return this.familyMembers.First(member => member.Age == maxAge);
+            int maxAge = FamilyMembers.Max(member => member.Age);
+            return FamilyMembers.First(member => member.Age == maxAge);
         }
 
     }
