@@ -16,11 +16,11 @@ namespace _03.OldestFamilyMember
         {
             // трябва задължително да се инициализира за да е нов празен списък а да не е null,
             // ако е null все едно нямаме списък и няма да може да иползваме add, ще хвърли грешка ...
-            FamilyMembers = new List<Person>();
+            this.familyMembers = new List<Person>();
         }
 
         //--------------- Properties ---------------
-        public List<Person> FamilyMembers { get; set; }
+
 
         //----------------- Methods (фукционалност) ----------------
         public void AddMember(Person member)
@@ -30,8 +30,8 @@ namespace _03.OldestFamilyMember
 
         public Person GetOldestMember()
         { 
-            int maxAge = FamilyMembers.Max(member => member.Age);
-            return FamilyMembers.First(member => member.Age == maxAge);
+            int maxAge = this.familyMembers.Max(member => member.Age);
+            return this.familyMembers.First(member => member.Age == maxAge);
         }
 
     }
