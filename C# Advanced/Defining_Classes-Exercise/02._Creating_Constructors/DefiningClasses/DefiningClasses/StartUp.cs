@@ -17,7 +17,7 @@ namespace DefiningClasses
 
             Person person4 = new Person("G", 23);
 
-            // Console.WriteLine(person2.Name); //при Person2 не задаваме име на човечеца и осава без име от първия конструктор по дефолт
+            // Console.WriteLine(person2.Name); //при Person2 не задаваме име на човечеца и остава без име от първия конструктор по дефолт
             // Console.WriteLine(person2.Age); // ейджа си се предава
 
 
