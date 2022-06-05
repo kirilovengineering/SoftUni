@@ -16,11 +16,11 @@ namespace _03.OldestFamilyMember
         {
             // трябва задължително да се инициализира за да е нов празен списък а да не е null,
             // ако е null все едно нямаме списък и няма да може да иползваме add, ще хвърли грешка ...
-            this.familyMembers = new List<Person>();
+            FamilyMembers = new List<Person>();
         }
 
         //--------------- Properties ---------------
-
+        public List<Person> FamilyMembers { get; set; }
 
         //----------------- Methods (фукционалност) ----------------
         public void AddMember(Person member)
