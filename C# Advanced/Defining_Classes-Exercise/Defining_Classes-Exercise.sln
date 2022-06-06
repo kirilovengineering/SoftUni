@@ -17,9 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CarSalesman", "08.CarSal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PokemonTrainer", "09.PokemonTrainer\09.PokemonTrainer.csproj", "{A7847319-11D4-4A9D-A842-B5615D0AF58F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniParking", "10.SoftUniParking\SoftUniParking.csproj", "{BDEA8DA0-CC24-4663-849B-02F7AB97E9D9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override_ToString", "Override_ToString\Override_ToString.csproj", "{5AEB2F80-F5E4-4D10-B478-5D175C6CF04F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Override_ToString", "Override_ToString\Override_ToString.csproj", "{5AEB2F80-F5E4-4D10-B478-5D175C6CF04F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +53,6 @@ Global
 		{A7847319-11D4-4A9D-A842-B5615D0AF58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7847319-11D4-4A9D-A842-B5615D0AF58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7847319-11D4-4A9D-A842-B5615D0AF58F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDEA8DA0-CC24-4663-849B-02F7AB97E9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDEA8DA0-CC24-4663-849B-02F7AB97E9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDEA8DA0-CC24-4663-849B-02F7AB97E9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDEA8DA0-CC24-4663-849B-02F7AB97E9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5AEB2F80-F5E4-4D10-B478-5D175C6CF04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5AEB2F80-F5E4-4D10-B478-5D175C6CF04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEB2F80-F5E4-4D10-B478-5D175C6CF04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
