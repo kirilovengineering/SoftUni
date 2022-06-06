@@ -8,7 +8,7 @@ namespace TestDoublyLinkedList
     {
         public static void Main()
         {
-            // Всичко в това в тази имплементация е възможно с LinkedList вграден клас:
+            // Всичко в това в тази имплементация е възможно с вграден клас LinkedList :
             LinkedList<int> primerenLinkedList = new LinkedList<int>();
             // Имплементацията в TestDoublyLinkedList.cs с цел демонстрация на LinkedList как са го
             // написали Майкрософт
