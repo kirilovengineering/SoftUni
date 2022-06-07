@@ -53,6 +53,19 @@ namespace CustomDataStructures
 
             //......tests
 
+            Console.WriteLine($"-------------" + Environment.NewLine + "------------------");
+
+            var stack = new CustomStack<int>();
+
+            stack.Push(10);
+            stack.Push(20);
+            stack.Push(30);
+            Console.WriteLine(stack.Count);
+            Console.WriteLine(stack.Peek());
+            int popedElement = stack.Pop();
+            Console.WriteLine(popedElement);
+            Console.WriteLine(stack.Count);
+
         }
     }
 }
