@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Implementing_Stack_and_Queue_Lab
+namespace CustomDataStructures
 {
-    internal class Program
+    internal class CustomDataStructures
     {
         static void Main(string[] args)
         {
