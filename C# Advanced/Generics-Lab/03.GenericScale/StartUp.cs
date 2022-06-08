@@ -2,11 +2,11 @@
 
 namespace _03.GenericScale
 {
-    internal class Program
+    internal class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
