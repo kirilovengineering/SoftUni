@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Blacksmith", "01.Blacksm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TruffleHunter", "02.TruffleHunter\02.TruffleHunter.csproj", "{22D0AAB0-0A8C-47FD-AC36-CDBDF36B8051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StockMarket", "03.StockMarket\03.StockMarket.csproj", "{AE221C21-99AD-4BC8-A427-3D20DBF64C66}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{22D0AAB0-0A8C-47FD-AC36-CDBDF36B8051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D0AAB0-0A8C-47FD-AC36-CDBDF36B8051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D0AAB0-0A8C-47FD-AC36-CDBDF36B8051}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE221C21-99AD-4BC8-A427-3D20DBF64C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE221C21-99AD-4BC8-A427-3D20DBF64C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE221C21-99AD-4BC8-A427-3D20DBF64C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE221C21-99AD-4BC8-A427-3D20DBF64C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
