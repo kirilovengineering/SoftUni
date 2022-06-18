@@ -8,6 +8,7 @@ namespace ZHelp_nameof
     {
         static void Main(string[] args)
         {
+
             //A nameof expression produces the name of a variable, type, or member as the string constant:
             Console.WriteLine(nameof(System.Collections.Generic));  // output: Generic
             Console.WriteLine(nameof(List<int>));  // output: List
