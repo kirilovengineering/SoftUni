@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZHelp-nameof", "ZHelp-nameo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TruffleHunter", "02.TruffleHunter\02.TruffleHunter.csproj", "{EF35BC53-FC0C-4F79-9AE1-F41D87DD862C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BakeryShop", "01.BakeryShop\01.BakeryShop.csproj", "{47CADAE1-8529-4D5E-A8F7-60EDA9981C56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BakeryShop", "01.BakeryShop\01.BakeryShop.csproj", "{47CADAE1-8529-4D5E-A8F7-60EDA9981C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Beaver at Work", "02. Beaver at Work\02. Beaver at Work.csproj", "{52305217-0738-43AA-BF27-CFD0474A5E73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Beaver at Work", "02. Beaver at Work\02. Beaver at Work.csproj", "{52305217-0738-43AA-BF27-CFD0474A5E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Blacksmith", "01.Blacksmith\01.Blacksmith.csproj", "{40251D0F-F69F-4E0D-A64C-7713F54D8DD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{52305217-0738-43AA-BF27-CFD0474A5E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52305217-0738-43AA-BF27-CFD0474A5E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52305217-0738-43AA-BF27-CFD0474A5E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40251D0F-F69F-4E0D-A64C-7713F54D8DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40251D0F-F69F-4E0D-A64C-7713F54D8DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40251D0F-F69F-4E0D-A64C-7713F54D8DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40251D0F-F69F-4E0D-A64C-7713F54D8DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
