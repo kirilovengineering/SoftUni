@@ -6,6 +6,7 @@ namespace _02.TruffleHunter
     {
         static void Main(string[] args)
         {
+
             int size = int.Parse(Console.ReadLine()); // размер на гората/матрицата
             // матрица от символи
             char[,] matrix = new char[size, size]; // мсив от символи

@@ -8,6 +8,7 @@ namespace _01.MealPlan
     {
         static void Main(string[] args)
         {
+
             int salad = 350;
             int soup = 490;
             int pasta = 680;
