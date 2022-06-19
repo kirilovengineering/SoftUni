@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Beaver at Work", "02. B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Blacksmith", "01.Blacksmith\01.Blacksmith.csproj", "{40251D0F-F69F-4E0D-A64C-7713F54D8DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Food Finder", "01. Food Finder\01. Food Finder.csproj", "{73410524-D58A-4D88-9ED1-23B55D9B25FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Food Finder", "01. Food Finder\01. Food Finder.csproj", "{73410524-D58A-4D88-9ED1-23B55D9B25FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Pawn Wars", "02. Pawn Wars\02. Pawn Wars.csproj", "{C5F4B05E-C981-457D-B4AE-23A17A36D7D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{73410524-D58A-4D88-9ED1-23B55D9B25FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73410524-D58A-4D88-9ED1-23B55D9B25FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73410524-D58A-4D88-9ED1-23B55D9B25FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F4B05E-C981-457D-B4AE-23A17A36D7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F4B05E-C981-457D-B4AE-23A17A36D7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F4B05E-C981-457D-B4AE-23A17A36D7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F4B05E-C981-457D-B4AE-23A17A36D7D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
