@@ -131,7 +131,7 @@ namespace _02._Pawn_Wars
         //{
         //    for (int row = 0; row < matrix.GetLength(0); row++)
         //    {
-        //        for (int col = 0; col < matrix.GetLength(0); col++)
+        //        for (int col = 0; col < matrix.GetLength(1); col++)
         //        {
         //            Console.Write(matrix[row, col] + " ");
         //        }
@@ -144,7 +144,7 @@ namespace _02._Pawn_Wars
         //{
         //    for (int row = 0; row < matrix.GetLength(0); row++)
         //    {
-        //        for (int col = 0; col < matrix.GetLength(0); col++)
+        //        for (int col = 0; col < matrix.GetLength(1); col++)
         //        {
         //            Console.Write(matrix[row, col] + " ");
         //        }

@@ -143,12 +143,12 @@ namespace _01.Blacksmith
             // "Gladius: {amount}"
             // Печатаме по азбучен ред мечовете
 
-            SortedDictionary<string, int> sortedSwords = new SortedDictionary<string, int>(swords);
+            //SortedDictionary<string, int> sortedSwords = new SortedDictionary<string, int>(swords);
 
             // на сортирания речник разпечатваме само тези мечове оито имат изработен такъв
-            foreach (var keyValuePair in sortedSwords)
+            //foreach (var keyValuePair in sortedSwords)
             // ако не го сортираме преди това може->
-            //  foreach (var keyValuePair in sortedSwords.OrdderBy(pair => pair.key))
+            foreach (var keyValuePair in place /sortedSwords.OrdderBy(pair => pair.key))
             {
                 if (keyValuePair.Value > 0)
                 {
